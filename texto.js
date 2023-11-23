@@ -8,6 +8,12 @@ todosParagrafo.forEach(meuDiv => {
 
 document.getElementById("novoDiv").textContent = "Olá Mundo!";
 
+document.getElementById(id="item3" ).textContent = "Texto do Item 3 Mudado Alterado !";
+
+document.getElementById("botao").addEventListener('onclick', fuction() {
+    alert("Botão acionado");
+});
+
 
 // const todosParagrafo = [
 //     <p class="paragrafo">Este texto é o original</p>,
