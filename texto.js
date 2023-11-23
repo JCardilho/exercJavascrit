@@ -6,7 +6,7 @@ todosParagrafo.forEach(meuDiv => {
     meuDiv.textContent = "Todos os paragrafo foram modificados as querySelector"
 });
 
-document.getElementById("novoDiv").textContent = "Funcionou!";
+document.getElementById("novoDiv").textContent = "Olá Mundo!";
 
 
 // const todosParagrafo = [
